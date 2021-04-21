@@ -1,1 +1,4 @@
-["Posts", "Users"]
+{
+"posts":[{"id": 1, "title": "Harry Potter"}],
+  "users": [{"id": 1, title: "Daniel Laurindo"}]
+}
